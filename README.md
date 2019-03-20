@@ -7,9 +7,11 @@
 
 ![chatbot_QA_based_on_IR](https://github.com/IrvingBei/hexo_photo/blob/master/qa/demo.png)
 ## 参与人员
-[北北](https://github.com/IrvingBei)
-[腾云](https://github.com/wen-fei)
-yanghb:yanghb_2020@foxmail.com
+* [北北](https://github.com/IrvingBei)
+
+* [腾云](https://github.com/wen-fei)
+
+* yanghb   邮箱：yanghb_2020@foxmail.com
 
 ## 主要技术
 
