@@ -11,7 +11,7 @@
 
 * [腾云](https://github.com/wen-fei)
 
-* yanghb   邮箱：yanghb_2020@foxmail.com
+* [yanghb](https://github.com/Bumblebeeeee)
 
 ## 主要技术
 
