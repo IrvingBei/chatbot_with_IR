@@ -26,4 +26,4 @@
 ### after
 ![chatbot_QA_based_on_IR](https://github.com/IrvingBei/hexo_photo/blob/master/qa/demo.png)
 
-图片来源于千库网（通过会员下载），并进行了适当调整，严禁商用！
+PS:图片来源于千库网（通过会员下载），并进行了适当调整，严禁商用！
