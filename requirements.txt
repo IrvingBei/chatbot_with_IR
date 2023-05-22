@@ -1,6 +1,6 @@
 pandas==0.20.3
 web.py==0.40.dev1
-requests==2.20.0
+requests==2.31.0
 numpy==1.14.5
 beautifulsoup4==4.7.1
 jieba==0.39
